@@ -1,2 +1,2 @@
 # CITAFRIQUE
-Est un site qui contiendra tout les proverbes(citations) africcain(e)s.
+Est un site qui contiendra tout les proverbes(citations) africcain(e)s avec les auteurs.
